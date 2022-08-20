@@ -6,7 +6,7 @@
 🎓 (2022) B.S. in Physics  
 🎓 (2022) B.A. in Philosophy
 
-- Techs I've used at least once :
+- Techs that I've used at least once :
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
