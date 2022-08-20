@@ -1,12 +1,21 @@
 ### 👋 Hi, I’m Changeun Yang from Seoul, South Korea.
 
+####
+
 - I’m a machine learning beginner, and currently studying AI, ML, DL, NLP and CV with python.
+
+####
 
 - I graduated from Yonsei Univ. in Seoul.  
 🎓 (2022) B.S. in Physics  
 🎓 (2022) B.A. in Philosophy
 
+####
+
 - Techs that I've used at least once :
+
+####
+
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -30,6 +39,8 @@
   <br>
 </div>
 
+####
+
 - How to reach me :
 
   |Contacts|Address|
@@ -39,7 +50,12 @@
   |Youtube|https://www.youtube.com/channel/UCBhMH4OHY35qXevPavu7ZnA|
   |Steam|https://steamcommunity.com/id/naihoby|
 
+####
+
 ### 🥳 Thanks for visiting my GitHub page. Have a nice day!
 
-- (P.S.) I've been a BIG fan of IU for a long ago. Welcome to UAENA!
-<img src = 'https://user-images.githubusercontent.com/104478650/185764227-3b709066-3e0a-4b6c-80b9-47e869a67bb0.gif'>
+####
+
+<div align=center>
+  <img src = 'https://user-images.githubusercontent.com/104478650/185764227-3b709066-3e0a-4b6c-80b9-47e869a67bb0.gif' width = '600'>
+</div>
