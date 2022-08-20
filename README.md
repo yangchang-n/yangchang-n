@@ -42,4 +42,4 @@
 ### 🥳 Thanks for visiting my GitHub page. Have a nice day!
 
 - (P.S.) I've been a BIG fan of IU for a long ago. Welcome to UAENA!
-<img src = 'https://user-images.githubusercontent.com/104478650/185764107-a47d1aeb-6dbd-41c0-af7e-c806f11572aa.jpg'>
+<img src = 'https://user-images.githubusercontent.com/104478650/185764227-3b709066-3e0a-4b6c-80b9-47e869a67bb0.gif'>
