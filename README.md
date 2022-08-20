@@ -6,7 +6,31 @@
 🎓 (2022) B.S. in Physics  
 🎓 (2022) B.A. in Philosophy
 
-- How to reach me ...
+- Techs I've used at least once :
+<div align=center> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/firefox browser-FF7139?style=for-the-badge&logo=firefox browser&logoColor=white">
+  <img src="https://img.shields.io/badge/jupyter notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=google colab&logoColor=white">
+  <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+  <br>
+</div>
+
+- How to reach me :
 
   |Contacts|Address|
   |:---:|---|
@@ -17,7 +41,5 @@
 
 ### 🥳 Thanks for visiting my GitHub page. Have a nice day!
 
-<!---
-yangchangnaihoby/yangchangnaihoby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- (P.S.) I've been a BIG fan of IU for a long ago. Welcome to UAENA!
+<img src = 'https://user-images.githubusercontent.com/104478650/185762549-0fa91d79-7430-4b97-bad0-8a4eec0a6e6f.jpg'>
