@@ -2,7 +2,7 @@
 
 ####
 
-- I’m a machine learning beginner, and currently studying AI, ML, DL, NLP and CV with python.
+- I’m a machine learning beginner, and currently studying CV, OCR and TTS with Python3.
 
 ####
 
@@ -12,19 +12,21 @@
 
 ####
 
-- Techs that I've used at least once :
+- Techs & tools I usually use :
 
 ####
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/python3-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
@@ -45,7 +47,7 @@
 
   |Contacts|Address|
   |:---:|---|
-  |e-mail|tomtomato@naver.com / tomtomatoqg@gmail.com|
+  |E-mail|tomtomato@naver.com / tomtomatoqg@gmail.com|
   |Discord|YangChang#3094|
   |Youtube|https://www.youtube.com/channel/UCBhMH4OHY35qXevPavu7ZnA|
   |Steam|https://steamcommunity.com/id/naihoby|
