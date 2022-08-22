@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Changeun Yang from Seoul, South Korea.
+<h3 align = center>👋 Hi, I’m Changeun Yang from Seoul, South Korea.</h3>
 
 ####
 
@@ -16,7 +16,7 @@
 
 ####
 
-<div align=center> 
+<div align = center> 
   <img src="https://img.shields.io/badge/python3-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -54,10 +54,10 @@
 
 ####
 
-### 🥳 Thanks for visiting my GitHub page. Have a nice day!
+<h3 align = center>🥳 Thanks for visiting my GitHub page. Have a nice day!</h3>
 
 ####
 
-<div align=center>
+<div align = center>
   <img src = 'https://user-images.githubusercontent.com/104478650/185764227-3b709066-3e0a-4b6c-80b9-47e869a67bb0.gif' width = '80%'>
 </div>
