@@ -2,7 +2,7 @@
 
 ####
 
-- I’m a machine learning beginner, and currently studying CV, OCR and TTS with Python3.
+- I’m a machine learning beginner, and currently studying TTS with Python3.
 
 ####
 
@@ -12,7 +12,7 @@
 
 ####
 
-- Techs & tools I usually use :
+<!-- - Techs & tools I usually use :
 
 ####
 
@@ -41,7 +41,7 @@
   <br>
 </div>
 
-####
+#### -->
 
 - How to reach me :
 
