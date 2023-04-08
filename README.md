@@ -2,13 +2,17 @@
 
 ####
 
-- I’m a machine learning beginner, and currently studying TTS with Python3.
+- I’m a machine learning beginner, and currently interested in real-time TTS over ChatBot conversations.
 
 ####
 
-- I graduated from Yonsei Univ. in Seoul.  
-🎓 (2022) B.S. in Physics  
-🎓 (2022) B.A. in Philosophy
+- Education  
+🎓 (2022.02) B.S. in Physics  
+🎓 (2022.02) B.A. in Philosophy
+
+####
+
+- Certificate
 
 ####
 
@@ -52,7 +56,10 @@
   |Youtube|https://www.youtube.com/channel/UCBhMH4OHY35qXevPavu7ZnA|
   |Steam|https://steamcommunity.com/id/naihoby|
 
+####
+
 ##
+
 ####
 
 <h3 align = center>🥳 Thanks for visiting my GitHub page. Have a nice day!</h3>
@@ -60,5 +67,5 @@
 ####
 
 <div align = center>
-  <img src = 'https://user-images.githubusercontent.com/104478650/185764227-3b709066-3e0a-4b6c-80b9-47e869a67bb0.gif' width = '80%'>
+  <img src = 'https://user-images.githubusercontent.com/104478650/185764227-3b709066-3e0a-4b6c-80b9-47e869a67bb0.gif' width = '50%'>
 </div>
