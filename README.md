@@ -7,8 +7,10 @@
 ####
 
 - Education  
+
+  - Yonsei University, Seoul  
 🎓 (2022.02) B.S. in Physics  
-🎓 (2022.02) B.A. in Philosophy
+🎓 (2022.02) B.A. in Philosophy  
 
 ####
 
