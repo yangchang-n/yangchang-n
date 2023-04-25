@@ -14,7 +14,7 @@
 
 ####
 
-- Certificate 📋  
+- Certification 📋  
 
 ####
 
