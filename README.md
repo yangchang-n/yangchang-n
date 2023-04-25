@@ -8,7 +8,7 @@
 
 ####
 
-- I'm familiar with Python programming, analyzing Bigdata and machine learning.
+- I'm familiar with Python programming, bigdata analysis and machine learning.
 
 - I'm currently studying C++ and Unreal Engine to develop some games.
 
