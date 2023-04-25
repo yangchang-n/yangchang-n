@@ -1,8 +1,18 @@
+####
+
 <h3 align = center>👋 Hi, I’m Changeun Yang from Seoul, South Korea.</h3>
 
 ####
 
-- I’m a machine learning beginner, and currently interested in real-time TTS over ChatBot conversations.
+##
+
+####
+
+- I'm familiar with Python programming, analyzing Bigdata and machine learning.
+
+- I'm currently studying C++ and Unreal Engine to develop some games.
+
+- I was interested in real-time TTS over ChatBot conversations and generating personalized TTS with little voice data.
 
 ####
 
