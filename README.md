@@ -8,29 +8,15 @@
 
 ####
 
-- I'm familiar with Python coding, data analysis and machine learning.
+<div align = center>
+  <img src = 'https://user-images.githubusercontent.com/104478650/185764227-3b709066-3e0a-4b6c-80b9-47e869a67bb0.gif' width = '50%'>
+</div>
 
-- I'm currently dealing with Unreal Engine to develop some games.
-<!--
-- I was interested in real-time TTS over ChatBot conversations and generating personalized TTS with little voice data.
-
-####
-
-- Education 🎓  
-
-  - Yonsei University, Seoul  
-    (2022.02) B.S. in Physics  
-    (2022.02) B.A. in Philosophy  
-
-####
-
-- Certification 📋  
--->
 ####
 
 <div align = center> 
   <img src="https://img.shields.io/badge/python3-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
@@ -42,6 +28,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/firefox browser-FF7139?style=for-the-badge&logo=firefox browser&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
   <br>
 </div>
@@ -61,6 +48,29 @@
 
 ####
 
+<!--
+####
+
+- I'm familiar with Python coding, data analysis and machine learning.
+
+- I'm currently dealing with Unreal Engine to develop some games.
+
+- I was interested in real-time TTS over ChatBot conversations and generating personalized TTS with little voice data.
+
+####
+
+- Education 🎓  
+
+  - Yonsei University, Seoul  
+    (2022.02) B.S. in Physics  
+    (2022.02) B.A. in Philosophy  
+
+####
+
+- Certification 📋  
+
+####
+
 ##
 
 ####
@@ -68,9 +78,4 @@
 <h3 align = center>🥳 Thanks for visiting my GitHub page. Have a nice day!</h3>
 
 ####
-
-<div align = center>
-  <img src = 'https://user-images.githubusercontent.com/104478650/185764227-3b709066-3e0a-4b6c-80b9-47e869a67bb0.gif' width = '50%'>
-</div>
-
-####
+-->
