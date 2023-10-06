@@ -44,9 +44,9 @@
 ####
 
 <div align = center>
-  <img src="https://img.shields.io/badge/email-03C75A?style=for-the-badge&logo=naver&logoColor=white"&link=mailto:tomtomato@naver.com>
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"&link=https://discordapp.com/users/285674950772260884>
-  <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"&link=https://steamcommunity.com/id/naihoby>
+  <a href="mailto:tomtomato@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-03C75A?style=for-the-badge&logo=naver&logoColor=white"&link=mailto:tomtomato@naver.com></a>
+  <a href="https://discordapp.com/users/285674950772260884" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"&link=https://discordapp.com/users/285674950772260884></a>
+  <a href="https://steamcommunity.com/id/naihoby" target="_blank"><img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"&link=https://steamcommunity.com/id/naihoby></a>
 </div>
 
 ####
