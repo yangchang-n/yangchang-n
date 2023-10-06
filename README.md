@@ -1,6 +1,6 @@
 ####
 
-<h3 align = center>👋 Hi, I’m Changeun Yang from Seoul, South Korea.</h3>
+<h3 align = center>👋 Hi, I’m Yang Changeun from Seoul, South Korea.</h3>
 
 ####
 
@@ -35,47 +35,18 @@
 
 ####
 
-- How to reach me :
-
-  |Contacts|Address|
-  |:---:|---|
-  |E-mail|tomtomato@naver.com / tomtomatoqg@gmail.com|
-  |Discord|YangChang#3094|
-  |Steam|https://steamcommunity.com/id/naihoby|
-<!--
-  |Youtube|https://www.youtube.com/channel/UCBhMH4OHY35qXevPavu7ZnA|
--->
-
-####
-
-<!--
-####
-
-- I'm familiar with Python coding, data analysis and machine learning.
-
-- I'm currently dealing with Unreal Engine to develop some games.
-
-- I was interested in real-time TTS over ChatBot conversations and generating personalized TTS with little voice data.
-
-####
-
-- Education 🎓  
-
-  - Yonsei University, Seoul  
-    (2022.02) B.S. in Physics  
-    (2022.02) B.A. in Philosophy  
-
-####
-
-- Certification 📋  
-
-####
-
 ##
 
 ####
 
-<h3 align = center>🥳 Thanks for visiting my GitHub page. Have a nice day!</h3>
+<h3 align = center>How to reach me</h3>
 
 ####
--->
+
+<div align = center>
+  <img src="https://img.shields.io/badge/email-03C75A?style=for-the-badge&logo=naver&logoColor=white"&link=mailto:tomtomato@naver.com>
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"&link=https://discordapp.com/users/285674950772260884>
+  <img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"&link=https://steamcommunity.com/id/naihoby>
+</div>
+
+####
