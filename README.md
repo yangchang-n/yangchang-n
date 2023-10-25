@@ -5,7 +5,7 @@
 </div>
 
 ####
-
+<!--
 <div align = center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <br>
-<!--
+
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
@@ -21,9 +21,8 @@
   <img src="https://img.shields.io/badge/firefox-FF7139?style=for-the-badge&logo=firefox browser&logoColor=white">
   <img src="https://img.shields.io/badge/unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
   <br>
--->
 </div>
-
+-->
 ####
 
 ##
