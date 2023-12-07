@@ -1,6 +1,6 @@
 <div align = 'center'>
   <br/>
-  <img src = 'https://github.com/yangchang-n/HoYoLab-box/assets/104478650/1eb5c0f0-f192-482b-b92f-7acf2767db95' width = '60%'>
+  <img src = 'https://github.com/yangchang-n/HoYoLab-box/assets/104478650/838f0b2d-7660-4ead-ac46-60adcce72761' width = '75%'>
   <br/>
   <br/>
   <a href="mailto:tomtomato@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-03C75A?style=for-the-badge&logo=naver&logoColor=white"&link=mailto:tomtomato@naver.com></a>
